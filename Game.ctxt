@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ setUpGame()
+comment1.text=\n\ Sets\ up\ the\ game\ by\ starting\ the\ timer\ and\ adding\ the\ 2's,\ in\ addition\ to\ creating\ all\ of\ the\ frames\ \n
+comment2.params=
+comment2.target=Game()
+comment2.text=\n\ Constructor\ for\ the\ game,\ which\ sets\ its\ dimensions,\ and\ instantiates\ the\ score\ and\ grid\n
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.text=\n\ Not\ used,\ only\ here\ to\ fulfill\ the\ interface\n
+comment5.params=evt
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.text=\n\ @param\ KeyEvent\:\ registers\ the\ keys\ in\ order\ to\ utilize\ them\ for\ commands\n\ When\ the\ respective\ arrow\ key\ is\ pressed,\ the\ grid\ slides\ in\ that\ direction.\ \n
+comment6.params=evt
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.text=\n\ Not\ used,\ only\ here\ to\ fulfill\ the\ interface\n
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+comment7.text=\n\ @param\ Graphics\ g,\ a\ graphics\ engine\ that\ helps\ draw\ pictures\n\ Creates\ the\ grid\ for\ the\ game,\ displays\ the\ score,\ and\ \n
+numComments=8
